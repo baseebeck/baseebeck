@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @baseebeck
-- 👀 I’m a Front End Developer
-- 🌱 I’m currently learning data visualization with D3.js
+- 👀 I’m a Front-End Developer
 - 📫 How to reach me: baseebeck@gmail.com
 
 <!---
